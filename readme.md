@@ -1,4 +1,4 @@
-# Generowanie labiryntu - projekt zaliczeniowy
+# Generowanie labiryntu
 
 ## O projekcie:
 Tematem projektu jest stworzenie programu do generowania labiryntów. Do tego 
